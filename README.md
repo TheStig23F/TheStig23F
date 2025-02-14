@@ -25,10 +25,10 @@ Por ahora realizo análisis de datos locales. Me centro en meteorología y demog
 2. Migrar bases de datos Excel a SQL
 3. Iniciarme en GitHub
 
---
+---
 
 ## 🌐 Contactos
-- [Twitter/X]: @TheStig23F
-- [Instagram]: @davidcorcoba23
+- [Twitter/X]: (#https://x.com/TheStig23F)
+- [Instagram]: #davidcorcoba23
 - Correo: davidcorabar@gmail.com
 
