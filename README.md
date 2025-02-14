@@ -1,7 +1,7 @@
 # Hola 👋 soy David Corcoba
 
-**Analista de datos en formación** | 📍 León, España
-Por ahora realizo análisis de datos locales. Me centro en meteorología y demografía
+**Analista de datos en formación** | 📍 León, España.
+  - Por ahora realizo análisis de datos locales. Me centro en meteorología y demografía
 
 ---
 
