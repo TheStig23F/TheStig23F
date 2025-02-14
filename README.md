@@ -28,7 +28,9 @@ Por ahora realizo análisis de datos locales. Me centro en meteorología y demog
 ---
 
 ## 🌐 Contactos
-- [Twitter/X]: (#https://x.com/TheStig23F)
-- [Instagram]: #davidcorcoba23
+- Twitter: https://x.com/TheStig23F
+- Instagram: https://www.instagram.com/davidcorcoba23/
 - Correo: davidcorabar@gmail.com
+
+
 
